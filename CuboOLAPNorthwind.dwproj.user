@@ -18,7 +18,7 @@
           </ConfigurationSetting>
         </UserPasswords>
         <TargetServer>DMDUDB</TargetServer>
-        <TargetDatabase>DataMarkNorthwind</TargetDatabase>
+        <TargetDatabase>OLAP_DataMarkNorthwind</TargetDatabase>
         <StartObject>
           <ObjectId></ObjectId>
           <ObjectType>Current</ObjectType>
